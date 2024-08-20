@@ -16,3 +16,8 @@ def binary_search(arr, target):
 arr = [1, 2, 3, 4, 5, 6, 7]
 target = 5
 print(binary_search(arr, target))
+
+
+
+#input  :1, 2, 3, 4, 5, 6, 7
+#output : 4
