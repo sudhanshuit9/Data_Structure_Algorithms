@@ -20,7 +20,7 @@ def partition(arr, low, high):
 # Example usage
 arr = [8, 4, 7, 3, 9, 1]
 quick_sort(arr, 0, len(arr) - 1)
-print(arr)  # Output: [1, 3, 4, 7, 8, 9]
+print(arr)
 
 
 
